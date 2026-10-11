@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**Sara-Haidary/Sara-Haidary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **BSc Computer Science (Data Science)** student at the **University of Greenwich**, interested in data analysis, machine learning and AI.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Building data science projects to grow my practical skills
+- A group AI coursework project in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python · pandas · Data Analysis · Machine Learning · Data Visualization · SQL
+
+## 📂 Projects
+- **S&P 500 Stock Analysis and Next-Day Prediction**: analysing market data and predicting next-day movement ([Kaggle notebook](https://www.kaggle.com/code/mrshaidary/s-p-500-stock-analysis-and-next-day-prediction))
+
+## 🎯 Goals
+Looking for internship, placement and part-time opportunities in data and AI. Planning a master's in Machine Learning and AI.
+
+## 📫 Connect with me
+[LinkedIn](PASTE-YOUR-LINKEDIN-LINK-HERE) · [Kaggle](https://www.kaggle.com/mrshaidary)
